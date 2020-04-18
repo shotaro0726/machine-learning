@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/Users/macuser/.pyenv/shims/python",
+    "python.envFile": "${workspaceFolder}/.env"
+}
